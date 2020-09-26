@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,
+  "data": [
+    {
+      "id": 1,
+      "tradeName": "北京柯蓝科技有限公司",
+      "principal": "刘海海",
+      "school principal": "刘一一",
+      "take time": "2019-07-31",
+      "act time": "2019-08-01~2019-09-01"
+    }
+  ]
+}
